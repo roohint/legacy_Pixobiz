@@ -1,2 +1,2 @@
-# legacy_Pixobiz
-Pixobiz Project
+# Pixobiz Legacy
+Updated via NovaForge AI.
